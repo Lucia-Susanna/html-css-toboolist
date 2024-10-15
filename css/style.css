@@ -32,5 +32,15 @@ main div.container{
   max-width: 750px;
   margin: 45px auto;
   background-color: white;
+  padding-top: 15px;
+  padding-left: 50px;
+}
+
+span.button{
+  background-color: #45AFEE;
+  border-radius: 5px;
+  color: white;
+  font-size: 0.7rem;
+  padding: 6px 10px;
 }
 /************************* /main **************/
