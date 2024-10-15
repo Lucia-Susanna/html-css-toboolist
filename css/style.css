@@ -47,17 +47,27 @@ span.button{
 #section{
   color: #D0D0D2;
   background-color: white;
-  border: 1px solid #D0D0D2 ;
+  border: 1px solid #D0D0D2 
+  ;
   }
-  /************************* /main **************/
+  
   /************************* list **************/
   ul{
     list-style: none;
   }
   
-  main ul.sezioni{
-    padding-top: 45px;
+  li h3{
+    padding-bottom: 8px;
+    
+  }
+  
+  ul.elementi li{
+    padding-bottom: 20px;
+  }
+
+  li.sezionitop{
+    padding-top: 40px;
   }
 
   /****************** /list**************/
-  
+   /************************* /main **************/
