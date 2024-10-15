@@ -84,5 +84,9 @@ span.button{
     padding-left: 2px;
     padding-right: 2px;
   }
+ ul.elementi .cross{
+    color: red;
+    border-color: red;
+  }
   /****************** /list**************/
    /************************* /main **************/
