@@ -28,5 +28,9 @@ header span{
 /*********************** /header*************/
 
 /************************* main **************/
-
+main div.container{
+  max-width: 750px;
+  margin: 45px auto;
+  background-color: white;
+}
 /************************* /main **************/
