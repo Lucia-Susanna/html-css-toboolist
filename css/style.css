@@ -91,12 +91,31 @@ span.button{
 
   .etichetta{
     color: white;
-    font-size: 0.70rem;
+    font-size: 0.6rem;
     text-align: center;
     padding: 5px;
     border-radius: 10px;
+    margin-left: 5px;
   }
+  #editorial{
+    background-color: #45AFEE;
+  }
+   #Q1{
+    background-color: #9C75E4;
+   }
+   #recruiting{
+    background-color: #67C3AB;
+   }
+   #mobile{
+    background-color: #F19E37;
+   }
+   #website{
+    background-color: #D9679E;
+   }
+   #sales{
+    background-color: #AFCA27;
+   }
 
-  
+
   /****************** /list**************/
    /************************* /main **************/
