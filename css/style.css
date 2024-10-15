@@ -43,4 +43,10 @@ span.button{
   font-size: 0.7rem;
   padding: 6px 10px;
 }
+
+#section{
+  color: #D0D0D2;
+  background-color: white;
+  border: 1px solid #D0D0D2 ;
+  }
 /************************* /main **************/
