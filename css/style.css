@@ -3,3 +3,17 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+header{
+  margin: 10px 20px;
+}
+header img{
+  vertical-align: middle;
+}
+
+header span{
+  font-family: 'Trebuchet MS';
+  font-size: 2.5rem;
+  font-weight: 1000;
+  vertical-align: middle;
+}
