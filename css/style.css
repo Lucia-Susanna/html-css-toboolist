@@ -71,12 +71,12 @@ span.button{
     padding-top: 40px;
   }
   
-  ul.elementi span{
+  .to-do{
     color: rgb(36, 183, 43);
     border-style: solid;
     border-color: rgb(36, 183, 43);
     border-radius: 50%;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     margin-right: 8px;
     line-height: 17px;
     vertical-align: middle;
@@ -84,9 +84,19 @@ span.button{
     padding-left: 2px;
     padding-right: 2px;
   }
- ul.elementi .cross{
+  #cross{
     color: red;
     border-color: red;
   }
+
+  .etichetta{
+    color: white;
+    font-size: 0.70rem;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+  }
+
+  
   /****************** /list**************/
    /************************* /main **************/
