@@ -49,4 +49,11 @@ span.button{
   background-color: white;
   border: 1px solid #D0D0D2 ;
   }
-/************************* /main **************/
+  /************************* /main **************/
+  /************************* list **************/
+  main ul{
+    padding-top: 45px;
+    padding-left: 15px;
+
+  /************************* /list**************/
+  
