@@ -34,6 +34,7 @@ main div.container{
   background-color: white;
   padding-top: 15px;
   padding-left: 50px;
+  padding-bottom: 20px;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
